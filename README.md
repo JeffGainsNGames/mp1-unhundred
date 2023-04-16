@@ -13,8 +13,7 @@ Return all 100 items to their vanilla locations then finish by collecting the nu
 ## Notes
 
 ### QoL
-- Backwards Labs, Frigate, Mines ARE OFF
+- Backwards Labs, Frigate, Mines ARE OFF as in vanilla
 
 ### Current Softlock Patches
-- Doors to Chapel of Elders, Antechamber, and Plasma Processing now blue
 - Boxes added to Burn Dome Access to escape without bombs
