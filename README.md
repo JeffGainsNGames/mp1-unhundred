@@ -2,9 +2,9 @@
 Samus starts with all her items, but when you reach a pickup it gets removed!!!
 
 
-Made using toasterparty's fanhack patching tools
-
 - [Download](https://github.com/JeffGainsNGames/mp1-unhundred/releases/download/v0.2/mp1-unhundred-v0.2.zip)
+
+Made using toasterparty's fanhack patching tools, go check out the other awesome hacks [here](https://github.com/toasterparty/metroid-prime-fanhacks)
 
 ## Goal
 Return all 100 items to their vanilla locations then finish by collecting the nulltroid in Tallon:Landing Site
