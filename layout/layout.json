@@ -105,7 +105,7 @@
             "description": "Unhundred%"
         },
         "mainMenuMessage": "Unhundred% v0.3",
-        "creditsString": "Thanks for playing!"
+        "creditsString": "Thanks for playing!",
         "artifactHints": {
             "Artifact of Chozo": "&push;&main-color=#c300ff;Artifact of Chozo&pop; is in your inventory.",
             "Artifact of Nature": "&push;&main-color=#c300ff;Artifact of Nature&pop; is in your inventory.",
