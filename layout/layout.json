@@ -1,5 +1,5 @@
 {
-    "seed": 1234567890,
+    "seed": 402401,
     "preferences": {
         "defaultGameOptions": {
             "screenBrightness": 5,
@@ -30,12 +30,12 @@
         "forceFusion": false
     },
     "gameConfig": {
-        "resultsString": "someone forgot to update this part of the template",
+        "resultsString": "unhundred% v0.3",
         "bossSizes": null,
         "noDoors": false,
         "shufflePickupPosition": false,
         "shufflePickupPosAllRooms": false,
-        "removeVanillaBlastShields": true,
+        "removeVanillaBlastShields": false,
         "startingRoom": "Tallon:Landing Site",
         "startingMemo": null,
         "warpToStart": false,
@@ -93,7 +93,7 @@
             "Missile": 999,
             "Unknown Item 1": 65536
         },
-        "mainPlazaDoor": true,
+        "mainPlazaDoor": false,
         "backwardsFrigate": false,
         "backwardsLabs": false,
         "backwardsUpperMines": false,
@@ -104,21 +104,21 @@
             "gameNameFull": "Metroid Prime: Unhundred%",
             "description": "Unhundred%"
         },
-        "mainMenuMessage": "Unhundred%",
-        "creditsString": "&push;&font=C29C51F1;&main-color=#89D6FF;Major Item Locations&pop;\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Wave Beam&pop;\nPhazon Mines - Metroid Quarantine A\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Ice Beam&pop;\nPhazon Mines - Ventilation Shaft\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Plasma Beam&pop;\nPhazon Mines - Central Dynamo\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Missile Launcher&pop;\nTallon Overworld - Transport Tunnel B\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Grapple Beam&pop;\nTallon Overworld - Landing Site\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Thermal Visor&pop;\nPhendrana Drifts - Ice Ruins East\n\n&push;&font=C29C51F1;&main-color=#33ffd6;X-Ray Visor&pop;\nMagmoor Caverns - Warrior Shrine\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Space Jump Boots&pop;\nTallon Overworld - Frigate Crash Site\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Morph Ball&pop;\nChozo Ruins - Ruined Gallery\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Morph Ball Bomb&pop;\nChozo Ruins - Dynamo\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Boost Ball&pop;\nChozo Ruins - Watery Hall\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Spider Ball&pop;\nChozo Ruins - Ruined Gallery\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Power Bomb&pop;\nMagmoor Caverns - Fiery Shores\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Varia Suit&pop;\nChozo Ruins - Hive Totem\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Gravity Suit&pop;\nChozo Ruins - Ruined Shrine\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Phazon Suit&pop;\nTallon Overworld - Hydro Access Tunnel\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Super Missile&pop;\nPhazon Mines - Phazon Processing Center\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Wavebuster&pop;\nChozo Ruins - Main Plaza\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Ice Spreader&pop;\nChozo Ruins - Tower of Light\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Flamethrower&pop;\nChozo Ruins - Ruined Nursery\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Artifact of Elder&pop;\nPhendrana Drifts - Research Lab Aether\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Artifact of Lifegiver&pop;\nMagmoor Caverns - Magmoor Workstation\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Artifact of Strength&pop;\nChozo Ruins - Crossway\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Artifact of Truth&pop;\nPhendrana Drifts - Control Tower\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Artifact of Warrior&pop;\nPhazon Mines - Main Quarry\n\n&push;&font=C29C51F1;&main-color=#33ffd6;Artifact of Wild&pop;\nPhendrana Drifts - Quarantine Cave",
+        "mainMenuMessage": "Unhundred% v0.3",
+        "creditsString": "Thanks for playing!"
         "artifactHints": {
-            "Artifact of Chozo": "&push;&main-color=#c300ff;Artifact of Chozo&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Nature": "&push;&main-color=#c300ff;Artifact of Nature&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Sun": "&push;&main-color=#c300ff;Artifact of Sun&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of World": "&push;&main-color=#c300ff;Artifact of World&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Spirit": "&push;&main-color=#c300ff;Artifact of Spirit&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Newborn": "&push;&main-color=#c300ff;Artifact of Newborn&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Truth": "&push;&main-color=#c300ff;Artifact of Truth&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Strength": "&push;&main-color=#c300ff;Artifact of Strength&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Elder": "&push;&main-color=#c300ff;Artifact of Elder&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Wild": "&push;&main-color=#c300ff;Artifact of Wild&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Lifegiver": "&push;&main-color=#c300ff;Artifact of Lifegiver&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;.",
-            "Artifact of Warrior": "&push;&main-color=#c300ff;Artifact of Warrior&pop; is located in &push;&main-color=#89a1ff;Phendrana Drifts - Quarantine Cave&pop;."
+            "Artifact of Chozo": "&push;&main-color=#c300ff;Artifact of Chozo&pop; is in your inventory.",
+            "Artifact of Nature": "&push;&main-color=#c300ff;Artifact of Nature&pop; is in your inventory.",
+            "Artifact of Sun": "&push;&main-color=#c300ff;Artifact of Sun&pop; is in your inventory.",
+            "Artifact of World": "&push;&main-color=#c300ff;Artifact of World&pop; is in your inventory.",
+            "Artifact of Spirit": "&push;&main-color=#c300ff;Artifact of Spirit&pop; is in your inventory.",
+            "Artifact of Newborn": "&push;&main-color=#c300ff;Artifact of Newborn&pop; is in your inventory.",
+            "Artifact of Truth": "&push;&main-color=#c300ff;Artifact of Truth&pop; is in your inventory.",
+            "Artifact of Strength": "&push;&main-color=#c300ff;Artifact of Strength&pop; is in your inventory.",
+            "Artifact of Elder": "&push;&main-color=#c300ff;Artifact of Elder&pop; is in your inventory.",
+            "Artifact of Wild": "&push;&main-color=#c300ff;Artifact of Wild&pop; is in your inventory.",
+            "Artifact of Lifegiver": "&push;&main-color=#c300ff;Artifact of Lifegiver&pop; is in your inventory.",
+            "Artifact of Warrior": "&push;&main-color=#c300ff;Artifact of Warrior&pop; is in your inventory."
         },
         "artifactTempleLayerOverrides": {
             "Artifact of Truth": true,
@@ -413,14 +413,14 @@
                             "model": "Missile"
                         },
                         {
-                            "type": "Energy Tank",
-                            "scanText": "Place Energy Tank",
-                            "hudmemoText": "Energy Tank returned",
-                            "currIncrease": -1,
-                            "maxIncrease": -1,
+                            "type": "Missile",
+                            "scanText": "Place Missile expansion",
+                            "hudmemoText": "Missile expansion returned",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
                             "respawn": false,
                             "showIcon": true,
-                            "model": "Energy Tank"
+                            "model": "Missile"
                         }
                     ],
                     "doors": {}
@@ -1046,10 +1046,10 @@
                     "pickups": [
                         {
                             "type": "Missile",
-                            "scanText": "Missile Expansion. Provides 5 Missiles",
-                            "hudmemoText": "Missile Expansion acquired!",
-                            "currIncrease": 5,
-                            "maxIncrease": 5,
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
                             "respawn": false,
                             "showIcon": true,
                             "model": "Missile"
@@ -1387,8 +1387,8 @@
                             "type": "Power Bomb",
                             "scanText": "Place Power Bomb",
                             "hudmemoText": "Power Bomb returned",
-                            "currIncrease": -1,
-                            "maxIncrease": -1,
+                            "currIncrease": -4,
+                            "maxIncrease": -4,
                             "respawn": false,
                             "showIcon": true,
                             "model": "Power Bomb"
@@ -1530,7 +1530,17 @@
                             "respawn": false,
                             "showIcon": true,
                             "model": "Missile"
-                        }
+                        },
+						{	
+							"type": "Health Refill",
+                            "scanText": "Grab this item to complete your run!",
+                            "model": "Nothing",
+                            "maxIncrease": 0,
+                            "currIncrease": 99999,
+                            "respawn": true,
+                            "destination":"Credits",
+                            "position": [-355.17, 309.40, -27.70]
+						}
                     ],
                     "doors": {}
                 },
@@ -1833,6 +1843,16 @@
                 "Life Grove": {
                     "pickups": [
                         {
+                            "type": "X-Ray Visor",
+                            "scanText": "Place X-Ray Visor",
+                            "hudmemoText": "X-Ray Visor returned!",
+                            "currIncrease": -1,
+                            "maxIncrease": -1,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "X-Ray Visor"						
+                        },
+                        {
                             "type": "Artifact of Chozo",
                             "scanText": "Place Artifact of Chozo",
                             "hudmemoText": "Artifact of Chozo returned!",
@@ -1841,16 +1861,6 @@
                             "respawn": false,
                             "showIcon": true,
                             "model": "Artifact of Chozo"
-                        },
-                        {
-                            "type": "X-Ray Visor",
-                            "scanText": "Place X-Ray Visor",
-                            "hudmemoText": "X-Ray Visor returned!",
-                            "currIncrease": -1,
-                            "maxIncrease": -1,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "X-Ray Visor"
                         }
                     ],
                     "doors": {}
@@ -1880,6 +1890,36 @@
                 "Main Plaza": {
                     "pickups": [
                         {
+                            "type": "Missile",
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Missile"
+                        },
+                        {
+                            "type": "Missile",
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Missile"
+                        },
+                        {
+                            "type": "Missile",
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Missile"
+                        },
+                        {
                             "type": "Energy Tank",
                             "scanText": "Place Energy Tank",
                             "hudmemoText": "Energy Tank returned!",
@@ -1888,36 +1928,6 @@
                             "respawn": false,
                             "showIcon": true,
                             "model": "Energy Tank"
-                        },
-                        {
-                            "type": "Missile",
-                            "scanText": "Place Missile Expansion",
-                            "hudmemoText": "Missile Expansion returned!",
-                            "currIncrease": -5,
-                            "maxIncrease": -5,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Missile"
-                        },
-                        {
-                            "type": "Missile",
-                            "scanText": "Place Missile Expansion",
-                            "hudmemoText": "Missile Expansion returned!",
-                            "currIncrease": -5,
-                            "maxIncrease": -5,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Missile"
-                        },
-                        {
-                            "type": "Missile",
-                            "scanText": "Place Missile Expansion",
-                            "hudmemoText": "Missile Expansion returned!",
-                            "currIncrease": -5,
-                            "maxIncrease": -5,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Missile"
                         }
                     ],
                     "doors": {}
@@ -1960,26 +1970,6 @@
                 "Ruined Shrine": {
                     "pickups": [
                         {
-                            "type": "Missile",
-                            "scanText": "Place Missile Expansion",
-                            "hudmemoText": "Missile Expansion returned!",
-                            "currIncrease": -5,
-                            "maxIncrease": -5,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Missile"
-                        },
-                        {
-                            "type": "Missile",
-                            "scanText": "Place Missile Expansion",
-                            "hudmemoText": "Missile Expansion returned!",
-                            "currIncrease": -5,
-                            "maxIncrease": -5,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Missile"
-                        },
-                        {
                             "type": "Morph Ball",
                             "scanText": "Place Morph Ball",
                             "hudmemoText": "Morph Ball returned!",
@@ -1988,6 +1978,26 @@
                             "respawn": false,
                             "showIcon": true,
                             "model": "Morph Ball"
+                        },
+                        {
+                            "type": "Missile",
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Missile"
+                        },
+                        {
+                            "type": "Missile",
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Missile"
                         }
                     ],
                     "doors": {}
@@ -2234,6 +2244,16 @@
                 "Sunchamber": {
                     "pickups": [
                         {
+                            "type": "Varia Suit",
+                            "scanText": "Place Varia Suit",
+                            "hudmemoText": "Varia Suit returned!",
+                            "currIncrease": -1,
+                            "maxIncrease": -1,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Varia Suit"							
+                        },
+                        {
                             "type": "Artifact of Wild",
                             "scanText": "Place Artifact of Wild",
                             "hudmemoText": "Artifact of Wild returned!",
@@ -2242,16 +2262,6 @@
                             "respawn": false,
                             "showIcon": true,
                             "model": "Artifact of Wild"
-                        },
-                        {
-                            "type": "Varia Suit",
-                            "scanText": "Place Varia Suit",
-                            "hudmemoText": "Varia Suit returned!",
-                            "currIncrease": -1,
-                            "maxIncrease": -1,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Varia Suit"
                         }
                     ],
                     "doors": {}
@@ -2343,7 +2353,19 @@
                 },
                 "Burn Dome Access": {
                     "pickups": [],
-                    "doors": {}
+                    "doors": {},
+					"blocks": [
+                        {
+                            "position": [571.3077, -45.2214, 30.7865],
+                            "scale": [5.2, 2.3, 2.7],
+                            "texture": "sandstone"
+                        },
+						{
+                            "position": [565.827, -94.0528, 33.6163],
+                            "scale": [5.2, 2.3, 2.0],
+                            "texture": "sandstone"
+                        }
+					]
                 },
                 "West Furnace Access": {
                     "pickups": [],
@@ -2377,6 +2399,16 @@
                 "Furnace": {
                     "pickups": [
                         {
+                            "type": "Missile",
+                            "scanText": "Place Missile Expansion",
+                            "hudmemoText": "Missile Expansion returned!",
+                            "currIncrease": -5,
+                            "maxIncrease": -5,
+                            "respawn": false,
+                            "showIcon": true,
+                            "model": "Missile"							
+                        },
+                        {
                             "type": "Energy Tank",
                             "scanText": "Place Energy Tank",
                             "hudmemoText": "Energy Tank returned!",
@@ -2385,16 +2417,6 @@
                             "respawn": false,
                             "showIcon": true,
                             "model": "Energy Tank"
-                        },
-                        {
-                            "type": "Missile",
-                            "scanText": "Place Missile Expansion",
-                            "hudmemoText": "Missile Expansion returned!",
-                            "currIncrease": -5,
-                            "maxIncrease": -5,
-                            "respawn": false,
-                            "showIcon": true,
-                            "model": "Missile"
                         }
                     ],
                     "doors": {}
