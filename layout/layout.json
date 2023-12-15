@@ -105,7 +105,7 @@
             "description": "Unhundred%"
         },
         "mainMenuMessage": "Unhundred% v0.3",
-        "creditsString": "Thanks for playing!"
+        "creditsString": "Thanks for playing!",
         "artifactHints": {
             "Artifact of Chozo": "&push;&main-color=#c300ff;Artifact of Chozo&pop; is in your inventory.",
             "Artifact of Nature": "&push;&main-color=#c300ff;Artifact of Nature&pop; is in your inventory.",
@@ -450,7 +450,12 @@
                             "model": "Wave Beam"
                         }
                     ],
-                    "doors": {}
+                    "doors": {
+                    "0": {
+                            "shieldType": "Power Only",
+                            "blastShieldType": "None"
+                        }
+                    }
                 },
                 "Ruined Courtyard": {
                     "pickups": [
@@ -1104,7 +1109,12 @@
                             "model": "Plasma Beam"
                         }
                     ],
-                    "doors": {}
+                    "doors": {
+                    "0": {
+                            "shieldType": "Power Only",
+                            "blastShieldType": "None"
+                        }
+                    }
                 },
                 "South Core Tunnel": {
                     "pickups": [],
@@ -1531,8 +1541,8 @@
                             "showIcon": true,
                             "model": "Missile"
                         },
-						{	
-							"type": "Health Refill",
+                        {
+                            "type": "Health Refill",
                             "scanText": "Grab this item to complete your run!",
                             "model": "Nothing",
                             "maxIncrease": 0,
@@ -1540,7 +1550,139 @@
                             "respawn": true,
                             "destination":"Credits",
                             "position": [-355.17, 309.40, -27.70]
-						}
+                        },
+                        {
+                            "type": "Artifact of Chozo",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Nature",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Sun",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of World",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Spirit",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Newborn",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Truth",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Strength",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Elder",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Wild",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Lifegiver",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        },
+                        {
+                            "type": "Artifact of Warrior",
+                            "scanText": "",
+                            "hudmemoText": "",
+                            "currIncrease": 1,
+                            "maxIncrease": 1,
+                            "respawn": false,
+                            "showIcon": false,
+                            "model": "nothing",
+                            "position": [-369.55, 380.35, -20.16]
+                        }
                     ],
                     "doors": {}
                 },
@@ -2511,7 +2653,12 @@
                             "model": "Ice Beam"
                         }
                     ],
-                    "doors": {}
+                    "doors": {
+                    "0": {
+                            "shieldType": "Power Only",
+                            "blastShieldType": "None"
+                        }
+                    }
                 },
                 "Transport to Tallon Overworld East": {
                     "pickups": [],
