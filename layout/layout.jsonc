@@ -450,12 +450,7 @@
                             "model": "Wave Beam"
                         }
                     ],
-                    "doors": {
-                    "0": {
-                            "shieldType": "Power Only",
-                            "blastShieldType": "None"
-                        }
-                    }
+                    "doors": {}
                 },
                 "Ruined Courtyard": {
                     "pickups": [
@@ -1109,12 +1104,7 @@
                             "model": "Plasma Beam"
                         }
                     ],
-                    "doors": {
-                    "0": {
-                            "shieldType": "Power Only",
-                            "blastShieldType": "None"
-                        }
-                    }
+                    "doors": {}
                 },
                 "South Core Tunnel": {
                     "pickups": [],
@@ -2501,11 +2491,6 @@
                             "position": [571.3077, -45.2214, 30.7865],
                             "scale": [5.2, 2.3, 2.7],
                             "texture": "sandstone"
-                        },
-						{
-                            "position": [565.827, -94.0528, 33.6163],
-                            "scale": [5.2, 2.3, 2.0],
-                            "texture": "sandstone"
                         }
 					]
                 },
@@ -2653,12 +2638,7 @@
                             "model": "Ice Beam"
                         }
                     ],
-                    "doors": {
-                    "0": {
-                            "shieldType": "Power Only",
-                            "blastShieldType": "None"
-                        }
-                    }
+                    "doors": {}
                 },
                 "Transport to Tallon Overworld East": {
                     "pickups": [],
