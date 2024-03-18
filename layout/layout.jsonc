@@ -30,7 +30,7 @@
         "forceFusion": false
     },
     "gameConfig": {
-        "resultsString": "unhundred% v0.4",
+        "resultsString": "unhundred% v1.0",
         "bossSizes": null,
         "noDoors": false,
         "shufflePickupPosition": false,
@@ -104,8 +104,8 @@
             "gameNameFull": "Metroid Prime: Unhundred%",
             "description": "Unhundred%"
         },
-        "mainMenuMessage": "Unhundred% v0.4",
-        "creditsString": "Thanks for playing!",
+        "mainMenuMessage": "Unhundred% v1.0",
+        "creditsString": "Thanks for playing and thank ToasterParty for the tools to do this!",
         "artifactHints": {
             "Artifact of Chozo": "&push;&main-color=#c300ff;Artifact of Chozo&pop; is in your inventory.",
             "Artifact of Nature": "&push;&main-color=#c300ff;Artifact of Nature&pop; is in your inventory.",
@@ -2488,8 +2488,8 @@
                     "doors": {},
 					"blocks": [
                         {
-                            "position": [571.3077, -45.2214, 30.7865],
-                            "scale": [5.2, 2.3, 2.7],
+                            "position": [573.8524, -47.9264, 30.6995],
+                            "scale": [6.0, 8.7, 4.7],
                             "texture": "sandstone"
                         }
 					]
