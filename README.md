@@ -17,3 +17,10 @@ Return all 100 items to their vanilla locations then finish by collecting the nu
 
 ### Current Softlock Patches
 - Boxes added to Burn Dome Access to escape without bombs
+
+## Record
+| Place | Runner  | Time | Evidence                                                                               |
+|-------|---------|------|----------------------------------------------------------------------------------------|
+| 1     | Remi111 | 1:30 | https://www.youtube.com/watch?v=GSbDjxsBK9I                                            |
+| 2     | Rmazer  | 2:32 | https://discord.com/channels/83069099457908736/1096585260176789554/1219528483516977252 |
+| 3     |         |      |                                                                                        |
